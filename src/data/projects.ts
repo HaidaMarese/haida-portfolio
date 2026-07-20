@@ -31,4 +31,12 @@ export const projects: Project[] = [
     technologies: ["Python", "Scikit-learn", "Pandas"],
     github: "https://github.com/HaidaMarese/ai-job-market-ml-project",
   },
+
+  {
+  title: "Financial Portfolio Data Model",
+  description:
+    "A financial portfolio management data model featuring Advisor, Client, Portfolio, and Security entities with one-to-many and one-to-one JPA relationships.",
+  technologies: ["Java", "Spring Boot", "JPA", "IntelliJ IDEA", "ERD"],
+  github: "https://github.com/HaidaMarese/wells-fargo-task-2",
+},
 ];
