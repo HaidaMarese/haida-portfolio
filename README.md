@@ -78,3 +78,7 @@ npm run preview
 Computer Science Graduate, UNC Charlotte 
 
 - LinkedIn: [Haida Makouangou](https://www.linkedin.com/in/hmakouan/)
+
+## License
+
+MIT License
