@@ -19,7 +19,7 @@ export const projects: Project[] = [
   {
     title: "IT Help Desk Ticket System",
     description:
-      "A full-stack IT help desk application built with the MERN stack. Employees can create and track support tickets, while technicians can assign, prioritize, manage, and resolve requests through a secure role-based system.",
+      "A full-stack IT help desk application where employees can create and track support tickets while technicians manage and resolve requests.",
     technologies: ["React", "Node.js", "Express", "MongoDB", "JWT"],
     github: "https://github.com/HaidaMarese/help-desk-ticket-system",
     live: "https://help-desk-ticket-system-puce.vercel.app/",
@@ -31,12 +31,28 @@ export const projects: Project[] = [
     technologies: ["Python", "Scikit-learn", "Pandas"],
     github: "https://github.com/HaidaMarese/ai-job-market-ml-project",
   },
-
   {
-  title: "Financial Portfolio Data Model",
-  description:
-    "A financial portfolio management data model featuring Advisor, Client, Portfolio, and Security entities with one-to-many and one-to-one JPA relationships.",
-  technologies: ["Java", "Spring Boot", "JPA", "IntelliJ IDEA", "ERD"],
-  github: "https://github.com/HaidaMarese/wells-fargo-task-2",
-},
+    title: "Financial Portfolio Data Model",
+    description:
+      "A financial portfolio data model featuring Advisor, Client, Portfolio, and Security entities with JPA relationships.",
+    technologies: ["Java", "Spring Boot", "JPA", "IntelliJ IDEA", "ERD"],
+    github: "https://github.com/HaidaMarese/wells-fargo-task-2",
+  },
+  {
+    title: "Trade Reconciliation System",
+    description:
+      "A financial application that compares internal and external transactions to identify matches, amount differences, and missing records.",
+    technologies: [
+      "Java",
+      "Spring Boot",
+      "Spring Data JPA",
+      "H2",
+      "Maven",
+      "AWS",
+    ],
+    github:
+      "https://github.com/HaidaMarese/trade-reconciliation-system",
+    live:
+      "http://trade-reconciliation-haida.us-east-1.elasticbeanstalk.com",
+  },
 ];
