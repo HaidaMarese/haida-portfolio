@@ -3,12 +3,14 @@ import About from "./components/About";
 import Certifications from "./components/Certifications";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
+import JobSimulations from "./components/JobSimulations";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import ScrollTop from "./components/ScrollTop";
 import Skills from "./components/Skills";
+
 
 function App() {
   const [darkMode, setDarkMode] = useState<boolean>(() => {
@@ -28,6 +30,7 @@ function App() {
         <About />
         <Skills />
         <Experience />
+        <JobSimulations />
         <Projects />
         <Certifications />
         <Contact />
