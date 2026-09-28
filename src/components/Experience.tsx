@@ -63,7 +63,7 @@ function Experience() {
               transition={{ delay: index * 0.1 }}
               className="relative mb-10 last:mb-0"
             >
-              <div className="absolute -left-[2.45rem] top-2 h-4 w-4 rounded-full border-4 border-nude-50 bg-nude-600 dark:border-nude-900" />
+              <div className="absolute left-[-2.45rem] top-2 h-4 w-4 rounded-full border-4 border-nude-50 bg-nude-600 dark:border-nude-900" />
 
               <div className="soft-shadow rounded-3xl border border-soft bg-surface p-6 sm:p-8">
                 <p className="text-sm font-semibold uppercase tracking-wider text-nude-600">

@@ -20,9 +20,9 @@ function About() {
 
           <div>
             <p className="text-muted text-lg leading-8">
-              I am a Computer Science graduate from UNC Charlotte with a concentration in Artificial Intelligence, Gaming, and Robotics. 
-              My background combines full-stack software development, machine learning, generative AI, enterprise technology, networking, and cloud computing. 
-              I enjoy building practical solutions that solve real-world problems.
+              I earned my Bachelor’s degree in Computer Science from UNC Charlotte, with a concentration in AI, Gaming, and Robotics. 
+              My background includes software development, machine learning, cloud computing, networking, and enterprise technology. 
+              I enjoy building practical solutions to real-world problems.
             </p>
 
             <div className="mt-8 grid gap-4 sm:grid-cols-3">

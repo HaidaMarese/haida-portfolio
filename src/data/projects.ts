@@ -55,4 +55,21 @@ export const projects: Project[] = [
     live:
       "http://trade-reconciliation-haida.us-east-1.elasticbeanstalk.com",
   },
+   
+  {
+    title: "Snakes & Ladders — Digital Edition",
+    description:
+      "A Unity 2D turn-based board game for up to four local players, featuring C# game rules, player movement, UI interactions, animations, and sound effects.",
+    technologies: ["Unity 2D", "C#", "DOTween", "Git"],
+    github:
+      "https://github.com/HaidaMarese/SnakesAndLadder-DigitalEdition",
+  },
+
+  {
+  title: "Health-Connect",
+  description:
+    "An iOS healthcare appointment scheduling project with a Swift app, product specification, wireframes, and a data model for patients, providers, and appointments.",
+  technologies: ["Swift", "Xcode", "iOS"],
+  github: "https://github.com/HaidaMarese/Health-Connect",
+},
 ];

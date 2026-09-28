@@ -64,7 +64,7 @@ function Contact() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, amount: 0.2 }}
           onSubmit={handleSubmit}
-          className="rounded-[2rem] bg-nude-50 p-6 text-nude-900 soft-shadow sm:p-8"
+          className="rounded-4xl bg-nude-50 p-6 text-nude-900 soft-shadow sm:p-8"
         >
           <div className="grid gap-5 sm:grid-cols-2">
             <label className="text-sm font-semibold">

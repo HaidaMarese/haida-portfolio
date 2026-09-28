@@ -28,15 +28,15 @@ function Hero() {
           </h1>
 
           <p className="mt-5 text-2xl font-semibold sm:text-3xl">
-            Software Engineer | Full-Stack • AI/ML
+            Software Engineer | Full-Stack • AI/ML • Cloud
           </p>
           <p className="text-muted mt-3 max-w-xl text-base font-medium leading-8 sm:text-lg">
              Python • React • LLMs • RAG • Cloud
              </p>
 
           <p className="text-muted mt-6 max-w-2xl leading-8">
-            Building practical, secure, and user-focused applications by combining full-stack development, 
-            machine learning, generative AI, and enterprise technology experience.
+            Computer Science graduate from UNC Charlotte 
+            building practical, secure, and user-focused full-stack, AI, and cloud applications.
           </p>
 
           <div className="mt-8 flex flex-wrap gap-4">
